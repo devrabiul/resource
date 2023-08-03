@@ -3,7 +3,7 @@
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Support\Facades\Session;
-use Modules\Settings\Entities\Language;
+use Modules\AddonsManager\Entities\Language;
 
 if(!function_exists('translate'))
 {
